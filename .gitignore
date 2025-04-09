@@ -1,0 +1,15 @@
+# Root
+node_modules/
+dist/
+.env
+
+# Server
+/server/target/
+/server/.idea/
+/server/.mvn/
+/server/.env/
+
+# Client
+/client/.next/
+/client/node_modules/
+/client/.env/
